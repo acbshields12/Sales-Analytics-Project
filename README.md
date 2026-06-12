@@ -33,7 +33,7 @@ This project simulates a complete data analyst workflow: cleaning and exploring 
 - Data cleaning and validation
 - PivotTables for regional and category breakdowns
 - Formulas: SUMIF, SUMIFS, AVERAGEIF, XLOOKUP, RANK, conditional formatting
-- File: `excel/01_excel_analysis.xlsx`
+- File: `excel/sales_data_cleaned.xlsx`
 
 ### 2. MySQL
 - Database design and CSV import
@@ -48,7 +48,7 @@ This project simulates a complete data analyst workflow: cleaning and exploring 
 ### 4. Power BI
 - One-page interactive dashboard with KPI cards, bar/donut/line charts, and slicers
 - Conditional formatting to highlight top-performing region
-- File: `powerbi/sales_dashboard.pbix`
+- File: `powerbi/dashboard.pbix`
 
 ## Key Insights
 
@@ -65,14 +65,14 @@ sales-analytics-project/
 │   ├── sales_data.csv
 │   └── sales_data.xlsx
 ├── excel/
-│   └── 01_excel_analysis.xlsx
+│   └── sales_data_cleaned.xlsx
 ├── sql/
 │   └── queries.sql
 ├── python/
 │   └── analysis.ipynb
 ├── powerbi/
-│   ├── sales_dashboard.pbix
-│   └── dashboard_screenshot.png
+│   ├── dashboard.pbix
+│   └── dashboard.jpg
 └── README.md
 ```
 
@@ -85,7 +85,7 @@ sales-analytics-project/
 1. Clone this repo
 2. Open `data/sales_data.csv` in Excel or load into MySQL using the schema in `sql/queries.sql`
 3. Run `python/analysis.ipynb` in Jupyter or Google Colab
-4. Open `powerbi/sales_dashboard.pbix` in Power BI Desktop
+4. Open `powerbi/dashboard.pbix` in Power BI Desktop
 
 ## Author
 
