@@ -89,4 +89,11 @@ sales-analytics-project/
 
 ## Author
 
-[Your Name] — [LinkedIn] | [Portfolio Website]
+Adriane Clark Ballesteros  
+Healthcare Data Analyst Trainee
+
+* 🔗 GitHub: https://github.com/acbshields12
+
+---
+
+*Project built as part of a healthcare analytics portfolio*
