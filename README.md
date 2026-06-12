@@ -78,7 +78,7 @@ sales-analytics-project/
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](powerbi/dashboard_screenshot.png)
+![](powerbi/dashboard.jpg)
 
 ## How to Use
 
